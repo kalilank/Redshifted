@@ -3,7 +3,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-jupyter
+ipykernel
 streamlit
 joblib
 plotly
