@@ -1,10 +1,16 @@
 data/raw/
 data/processed/
-models/
+
 __pycache__/
 .ipynb_checkpoints/
 .venv/
 .env
+
 *.pkl
 *.joblib
 *.csv
+
+models/*
+
+!models/object_classifier.joblib
+!models/redshift_regressor_deploy.joblib
